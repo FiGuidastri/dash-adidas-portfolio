@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built with Streamlit for visualizing Ad
 
 ## 🎯 Features
 
-- **Real-time Sales Metrics**: View up-to-date sales performance data
+- **Sales Performance Metrics**: View comprehensive sales performance data
 - **Retailer Analysis**: Compare total sales across different retailers
 - **Time-series Analysis**: Track sales trends over months and years
 - **Geographic Insights**: Analyze sales performance by state, region, and city
@@ -81,7 +81,7 @@ The dashboard uses an Excel file (`Adidas.xlsx`) containing Adidas sales data wi
 
 ## 🎨 Dashboard Sections
 
-1. **Header**: Displays Adidas logo and dashboard title with last update timestamp
+1. **Header**: Displays Adidas logo and dashboard title with current date
 2. **Retailer Sales**: Bar chart showing total sales by retailer
 3. **Sales Over Time**: Line chart tracking monthly sales trends
 4. **State Performance**: Combined bar and line chart showing sales and units sold by state
